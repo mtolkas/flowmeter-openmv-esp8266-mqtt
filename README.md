@@ -201,8 +201,8 @@ The (unedited) screencast below is the result, which is is fact rather accurate.
 Screencast:
 
 ![](assets/fm-vid2.mp4) 
+
 https://user-images.githubusercontent.com/952713/165447668-805f7fda-d79c-4e4e-916e-50da6f88098b.mp4
-![](https://user-images.githubusercontent.com/952713/165447668-805f7fda-d79c-4e4e-916e-50da6f88098b.mp4)
 
 The left-hand side is not always giving results due to inaccurate ROI during calibration. Also note that the printout is just an A4 paper with the needle being pushed from the back side, so some distortion in perspective as well as movement is added, that results in less accurate calculations.
 
