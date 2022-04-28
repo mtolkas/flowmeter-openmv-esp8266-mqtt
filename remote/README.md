@@ -29,6 +29,8 @@ For both devices to communicate using UART, connect as follows.
 * OMV GND <-> ESP GND
 
 
+![](assets/ESP8266_OpenMV.gif)
+
 # Examples folder
 In the exampes folder, there two simple applications to test the device communication without the length of the full fuel meter application. 
 
